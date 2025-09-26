@@ -14,5 +14,5 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),  // ✅ FIXED
     },
   },
-  base: "/computa-renal-care/",
+  base: "/computa-renal-care-main/",
 }));
